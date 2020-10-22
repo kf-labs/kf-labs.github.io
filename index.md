@@ -1,15 +1,21 @@
 <script src="{{ base.url | prepend: site.url }}/assets/livechat.js" type="text/javascript"> </script>
-  <noscript><a href="https://www.livechatinc.com/chat-with/12241785/" rel="nofollow">Chat with us</a>, powered by <a
-      href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+<noscript><a href="https://www.livechatinc.com/chat-with/12241785/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
 
-## Welcome to GitHub Pages
+## Welcome to KF Labs!
 
-You can use the [editor on GitHub](https://github.com/kf-labs/kf-labs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Natural Language Processing applied.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Team Members
 
-### Markdown
+Michal Falenski - LiveChat integration, backend server
+Enrica Troiano - Emotion classication engine
+Elie Khoury - Consulting
 
+### EmotionBot
+
+Use the chat window on the bottom right to see how our EmotionBot works. Try to write something emotional ;)
+
+<--!
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -31,15 +37,4 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kf-labs/kf-labs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
- <!-- Start of LiveChat (www.livechatinc.com) code -->
-
-  <!-- End of LiveChat code -->
+-->
