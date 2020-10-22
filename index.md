@@ -1,4 +1,4 @@
-<script src={{ base.url | prepend: site.url }}/assets/livechat.js></script>
+<script src="{{ base.url | prepend: site.url }}/assets/livechat.js" type="text/javascript"> </script>
   <noscript><a href="https://www.livechatinc.com/chat-with/12241785/" rel="nofollow">Chat with us</a>, powered by <a
       href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
 
