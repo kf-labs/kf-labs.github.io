@@ -7,15 +7,15 @@ Natural Language Processing applied.
 
 ### Team Members
 
-Michal Falenski - LiveChat integration, backend server
-Enrica Troiano - Emotion classication engine
-Elie Khoury - Consulting
+- Michal Falenski - LiveChat integration, backend server
+- Enrica Troiano - Emotion classication engine
+- Elie Khoury - Consulting
 
 ### EmotionBot
 
 Use the chat window on the bottom right to see how our EmotionBot works. Try to write something emotional ;)
 
-<--!
+<!--
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
