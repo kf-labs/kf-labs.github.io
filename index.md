@@ -7,9 +7,9 @@ Natural Language Processing applied.
 
 ### Team Members
 
-- Michal Falenski - LiveChat integration, backend server
+- Michał Faleński - LiveChat integration, backend server
 - Enrica Troiano - Emotion classication engine
-- Elie Khoury - Consulting
+- Elie Khoury - System consulting
 
 ### EmotionBot
 
