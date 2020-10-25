@@ -5,15 +5,19 @@
 
 Natural Language Processing applied
 
+Contact us at kflabs.ml@gmail.com.
+
 ### Team Members
 
-- Michał Faleński - LiveChat integration, backend server
-- Enrica Troiano - Emotion classification engine
-- Elie Khoury - System consulting
+- [Michał Faleński](https://www.linkedin.com/in/falenski/)- LiveChat integration, backend server
+- [Enrica Troiano](https://www.ims.uni-stuttgart.de/en/institute/team/Troiano/) - Emotion classification engine
+- [Elie Khoury](https://www.linkedin.com/in/eliekhoury/) - System consulting
 
 ### EmotionBot
 
 Use the chat window on the bottom right to see how our EmotionBot works. Try to write something emotional ;)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1B0n3cPWwEM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <!--
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
