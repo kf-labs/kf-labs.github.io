@@ -3,12 +3,12 @@
 
 ## Welcome to KF Labs!
 
-Natural Language Processing applied.
+Natural Language Processing applied
 
 ### Team Members
 
 - Michał Faleński - LiveChat integration, backend server
-- Enrica Troiano - Emotion classication engine
+- Enrica Troiano - Emotion classification engine
 - Elie Khoury - System consulting
 
 ### EmotionBot
