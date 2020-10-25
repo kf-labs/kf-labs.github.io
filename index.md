@@ -5,7 +5,7 @@
 
 Natural Language Processing applied
 
-Contact us at kflabs.ml@gmail.com.
+Contact us at kflabs.ml@gmail.com
 
 ### Team Members
 
